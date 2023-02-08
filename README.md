@@ -13,14 +13,15 @@ STANDARD USERS:
 - Add playtime to games
 - Request refund on game (played for less than X hours)
 - View and modify library
-- Request to greenlight games
+- Request to greenlight games. Absurdly long and goofy ToS included (created with thanks to GPT3).
 ~~~~~
 
 ADMIN USERS:
 ~~~~~
 - Purchase game from store
 - Leave review on game
-- Delete user reviews on game (long press review in Game Card).
+- Remove a game from store (long press listing in Store Activity for dialog)
+- Delete user reviews on game (long press review in GameCard Activity).
 - Approve or deny greenlight requests. Short press to open approval dialog
 - Approve or deny refund requests. Short press to open approval dialog
 - Add, remove, or modify user attributes. Long press for user modification dialog
