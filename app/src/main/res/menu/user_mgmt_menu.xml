@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/editLib"
+        android:title="Edit library"
+        />
+
+    <item
+        android:id="@+id/modName"
+        android:title="Change Username"
+        />
+
+    <item
+        android:id="@+id/modPass"
+        android:title="Change Password"
+        />
+
+    <item
+        android:id="@+id/modBal"
+        android:title="Change Balance"
+        />
+
+    <item
+        android:id="@+id/modPriv"
+        android:title="Change Privilege"
+        />
+
+    <item
+        android:id="@+id/deleteUser"
+        android:title="Delete"
+        />
+
+</menu>

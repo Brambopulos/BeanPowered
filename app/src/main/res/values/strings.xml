@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Bean</string>
+    <string name="mainExerciseHint">Enter Title</string>
+    <string name="mainWeightHint">Enter Rating</string>
+    <string name="mainRepsHint">Enter Price</string>
+    <string name="mainSubmitButton">Submit</string>
+    <string name="noGames">No records, go buy something!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="login">Login</string>
+    <string name="IdError">Some ID not successfully retrieved from last context.</string>
+    <string name="poorManError">You do not have enough money to purchase this game!</string>
+    <string name="alreadyHasGame">You already own this game!</string>
+    <string name="trueThat">Oh, right...</string>
+    <string name="fineThen">Fine...</string>
+    <string name="purchaseForSure">Are you sure you would like to purchase this game for $</string>
+    <string name="userIdNotPassed">User ID not successfully retrieved from last context.</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="userNotAdmin">User must be an admin to enter this activity</string>
+    <string name="noUserName">Couldn\'t parse username</string>
+    <string name="emptyFields">All fields must be completed!</string>
+    <string name="enterValue">Please enter a value!</string>
+    <string name="dividerString">=-=-=-=-=-=-=-=-=</string>
+    <string name="yourLibrary">Your Library</string>
+    <string name="noReviews">No reviews yet!</string>
+    <string name="notPlayedEnough">You haven\'t played long enough to leave a review</string>
+    <string name="notEnoughGames">Not enough games available to select for survey!</string>
+    <string name="sonicWins">Only correct answer, nice. \n You\'ve earned $100!</string>
+    <string name="okayChoice">Solid choice! You\'ve earned $20.</string>
+    <string name="justPickOne">Please make a selection.</string>
+    <string name="gameSubmitted">Game submitted for greenlighting!</string>
+    <string name="termsOfService">By listing your video game on Bean, you agree to the following terms and conditions:
+        \n1.  You must have a valid Bean account and be over the age of 18.
+        \n2.  You must not list any video games that contain violence, profanity, or any other inappropriate content.
+        \n3.  You must not use Bean to engage in any illegal activities, including but not limited to money laundering, fraud, or theft.
+        \n4.  You must not spam or harass other Bean users, or use the platform for any commercial purposes without our prior written permission.
+        \n5.  You must keep your contact information up-to-date and respond to any inquiries or complaints from Bean or other users in a timely and professional manner.
+        \n6.  You must not use Bean to infringe on the intellectual property rights of any third party, including but not limited to copyrights, trademarks, or patents.
+        \n7.  You must not list any video games that are damaged, defective, or otherwise not in good working condition.
+        \n8.  You must not list any video games that are counterfeit, fake, or otherwise not genuine.
+        \n9.  You must not list any video games that are banned, restricted, or otherwise not allowed to be sold on Bean.
+        \n10. You must not list any video games that are too heavy, too big, or otherwise not suitable for shipping via the Bean delivery service.
+        \n11. You must not list any video games that are related to pandas, penguins, or any other cute animals.
+        \n12. You must not list any video games that are related to unicorns, rainbows, or any other mythical creatures.
+        \n13. You must not list any video games that are related to aliens, spaceships, or any other extraterrestrial objects.
+        \n14. You must not list any video games that are related to time travel, parallel universes, or any other science fiction concepts.
+        \n15. You must not list any video games that are related to hot air balloons, skydiving, or any other adventurous activities.
+        \n16. You must not list any video games that are related to politics, religion, or any other sensitive topics.
+        \n17. You must not list any video games that are related to chocolate, ice cream, or any other sweets.
+        \n18. You must not list any video games that are related to math, science, or any other boring subjects.
+        \n19. You must not list any video games that are related to ghosts, vampires, or any other supernatural entities.
+        \n20. You must not list any video games that are related to love, romance, or any other mushy feelings.
+        \n\nBy listing your video game on Bean, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions. We reserve the right to change, modify, or update these terms and conditions at any time without notice. If you do not agree to these terms and conditions, please do not list your video game on Bean. Thank you for using our platform!</string>
+    <string name="weSellThis">We already sell this game doofus!</string>
+    <string name="cannotReturn">You cannot return a game you\'ve played for over 5 hours</string>
+    <string name="back">Back</string>
+    <string name="mustBeAdmin">You must be an admin to perform this function</string>
+    <string name="playTimePrompt">How long would you like to play </string>
+    <string name="questionMark">\?</string>
+    <string name="playConfirm">Play!</string>
+    <string name="whyReturn">Please explain why you\'d like to return </string>
+    <string name="opinionSilenced">Horrible opinion silenced!</string>
+    <string name="deleteReviewPrompt">Delete review by user </string>
+    <string name="refundRequestedAlready">You have a pending refund request</string>
+    <string name="refundSubmitSuccess">Refund request submitted successfully</string>
+    <string name="shouldWeSell">Should Bean serve this game to the public?</string>
+    <string name="denied">Game denied</string>
+    <string name="greenlit">Game successfully listed!</string>
+    <string name="reviewPosted">Review posted successfully!</string>
+</resources>

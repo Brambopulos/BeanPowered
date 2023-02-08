@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/storeEditTitle"
+        android:title="Edit Title" />
+    <item
+        android:id="@+id/storeEditPrice"
+        android:title="Edit Price" />
+    <item
+        android:id="@+id/storeEditPub"
+        android:title="Edit Publisher" />
+    <item
+        android:id="@+id/storeDeleteGame"
+        android:title="Delete Game" />
+</menu>
